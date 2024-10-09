@@ -14,7 +14,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 10px;
-  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  background:  #a7dcff;
 }
 
 .container {
@@ -40,7 +40,7 @@ body {
   height: 3px;
   width: 30px;
   border-radius: 5px;
-  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  background: #0051ff;
 }
 
 .content form .user-details {
@@ -75,7 +75,7 @@ form .input-box span.details {
 
 .user-details .input-box input:focus,
 .user-details .input-box input:valid {
-  border-color: #9b59b6;
+  border-color: #0051ff;
 }
 
 form .genero-details .genero-title {
@@ -109,7 +109,7 @@ form .category label .dot {
 #dot-1:checked~.category label .one,
 #dot-2:checked~.category label .two,
 #dot-3:checked~.category label .three {
-  background: #9b59b6;
+  background: #0051ff;
   border-color: #d9d9d9;
 }
 
@@ -133,11 +133,11 @@ form .button input {
   letter-spacing: 1px;
   cursor: pointer;
   transition: all 0.3s ease;
-  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  background: #65c2ff;
 }
 
 form .button input:hover {
-  background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+  background: #0099ff ;
 }
 
 /* Responsive media query code for mobile devices */
