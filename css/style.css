@@ -1,4 +1,3 @@
-/* Importing Google Fonts - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
 * {
@@ -140,7 +139,6 @@ form .button input:hover {
   background: #0099ff ;
 }
 
-/* Responsive media query code for mobile devices */
 @media(max-width: 584px) {
   .container {
     max-width: 100%;
@@ -165,7 +163,6 @@ form .button input:hover {
   }
 }
 
-/* Responsive media query code for mobile devices */
 @media(max-width: 459px) {
   .container .content .category {
     flex-direction: column;
